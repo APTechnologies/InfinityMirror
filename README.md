@@ -1,2 +1,2 @@
 # InfinityMirror
-All the files for a Large (50cm) RGB Infinity Mirror
+All the files for building you own sleek RGB Infinity Mirror with complete control over the colors, animations and brightness. Hang it on your wall and enjoy!
